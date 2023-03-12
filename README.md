@@ -1,3 +1,3 @@
-# ArchitecturyModTemplate-Forge
+# FTBQLocalizationKeys-Legacy
 
-These Templates are [Architectury Templates](https://github.com/architectury/architectury-templates) Fork (Only Forge).
+this mod in wip

@@ -1,14 +1,14 @@
 [
   {
     "modid": "${mod_id}",
-    "name": "Example Mod",
-    "description": "Example placeholder mod.",
+    "name": "FTBQLocalizationKeys",
+    "description": "FTBQLocalizationKeys",
     "version": "${mod_version}",
     "mcversion": "${mc_version}",
     "url": "",
     "updateUrl": "",
     "authorList": ["ExampleDude"],
-    "credits": "ExampleCredit",
+    "credits": "TexTrue",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
