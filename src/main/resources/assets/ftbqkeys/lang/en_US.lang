@@ -1,0 +1,4 @@
+commands.ftbqkeys.usage=Use /ftbqkeys <subcommand>
+commands.ftbqkeys.lang.usage=Use /ftbqkeys lang <filename>
+
+command.ftbqkeys.message=FTB quests localization files exported to:

@@ -36,6 +36,7 @@ dependencies {
     forge "net.minecraftforge:forge:${project.forge_version}"
 
     modImplementation "curse.maven:FTBQuests-289412:${project.ftbquests_version}"
+    modImplementation "curse.maven:KubeJS-238086:${project.kubejs_version}"
 }
 
 processResources {
